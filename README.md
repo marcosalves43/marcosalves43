@@ -1,6 +1,6 @@
 # 💻 Sobre Mim
 
-Olá! Me chamo **[Seu Nome Aqui]** e estou em transição para a área de **desenvolvimento back-end**. Atualmente trabalho na **Evo Network** e estou em constante aprendizado para me tornar um desenvolvedor completo, com foco em boas práticas, performance e escalabilidade.
+Olá! Me chamo **[Marcos ]** e estou em transição para a área de **desenvolvimento back-end**. Atualmente trabalho na **Evo Network** e estou em constante aprendizado para me tornar um desenvolvedor completo, com foco em boas práticas, performance e escalabilidade.
 
 ---
 
@@ -29,22 +29,10 @@ Meu foco atual é:
 
 Se quiser trocar uma ideia, colaborar em projetos ou fazer networking, me chama!
 
-- Email: [seuemail@exemplo.com]  
-- LinkedIn: [https://linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)  
-- GitHub: [https://github.com/seuusuario](https://github.com/seuusuario)
+- Email: [marcosalves4370@gmail.com] 
+- LinkedIn: (https://www.linkedin.com/in/marcos-vinicius-8b624324b/)  
+
 
 ---
-
-## 🛠️ Projetos em Desenvolvimento
-
-Pretendo compartilhar aqui meus estudos e projetos práticos envolvendo:
-
-- APIs com Node.js e Express
-- Microserviços com Java e Spring Boot
-- Integrações com banco de dados (PostgreSQL, MongoDB)
-- Aplicações fullstack com React + Java
-
----
-
 Sinta-se à vontade para acompanhar minha jornada 🚀  
 **Obrigado por visitar meu perfil!**
